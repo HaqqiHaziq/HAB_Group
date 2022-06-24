@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-  <title>HAB Group Studios Inco</title>
+  <title>HAB Group Studios</title>
 </head>
 <body>
 </body>
